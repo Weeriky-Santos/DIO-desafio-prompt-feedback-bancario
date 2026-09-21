@@ -20,7 +20,7 @@ A construção do comando seguiu uma metodologia em 3 passos:
 >
 > **Contexto:** A análise servirá de insumo direto para reuniões de priorização do time de Produto e CX. O objetivo central é transformar comentários brutos em decisões estratégicas de rápida execução.
 >
-> **Dados Disponíveis:** Registros contendo:`ID`, `Data`, `Canal`, `Produto`, `Nota (1 a 5)` e `Comentário do Cliente`.
+> **Dados Disponíveis:** Registros contendo: `ID`, `Data`, `Canal`, `Produto`, `Nota (1 a 5)` e `Comentário do Cliente`.
 >
 > **Instruções de Análise:**
 > 1. Classifique cada feedback por **Tema** (ex: Usabilidade, Falha Técnica, Atendimento, Custos), **Sentimento** (Positivo, Neutro, Negativo) e **Urgência** (Baixa, Média, Alta).
